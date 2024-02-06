@@ -1,7 +1,0 @@
-const read = () => {
-  
-}
-
-const use = () => {
-
-}
